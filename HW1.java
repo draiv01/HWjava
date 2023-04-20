@@ -1,9 +1,9 @@
-package HWjava;
+// package HWjava;
 
-import java.util.Scanner;
-import java.util.Scanner;
-import java.io.FileWriter;
-import java.io.IOException;
+// import java.util.Scanner;
+// import java.util.Scanner;
+// import java.io.FileWriter;
+// import java.io.IOException;
 
 // Вычислить n-ое треугольного число (сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
 
