@@ -9,7 +9,6 @@ public class Nout {
     private int ssdSize;
     private String color;
 
-    // Конструктор класса
     public Nout(String brand, double screenSize, int ramSize, int ssdSize, String color) {
         this.brand = brand;
         this.screenSize = screenSize;
@@ -18,7 +17,6 @@ public class Nout {
         this.color = color;
     }
 
-    // Геттеры и сеттеры для полей
     public String getBrand() {
         return brand;
     }
