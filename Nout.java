@@ -57,7 +57,7 @@ public class Nout {
         this.color = color;
     }
 
-    // Метод, возвращающий информацию о ноутбуке
+
     public String getInfo() {
         return "Производитель: " + this.brand + ", Диагональ экрана: " + this.screenSize + ", Оперативная память: "
                 + this.ramSize + "GB, SSD: " + this.ssdSize + "GB, Цвет: " + this.color;
